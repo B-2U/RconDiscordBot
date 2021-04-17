@@ -4,6 +4,10 @@ RconDiscordBot
 Example:  
 ![image](https://cdn.discordapp.com/attachments/800020585286860800/832956985644417054/unknown.png)  
   
+Python需求: 
+-------
+Json, mcrcon, discord
+
 配置:
 -------
 
